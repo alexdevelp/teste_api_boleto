@@ -1,0 +1,22 @@
+{
+  "name": "checking_code",
+  "version": "1.0.0",
+  "description": "API for code verification",
+  "type": "module",
+  "main": "index.js",
+  "author": "Alexandre Pereira",
+  "license": "MIT",
+  "dependencies": {
+    "celebrate": "^15.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "express-async-errors": "^3.1.1",
+    "morgan": "^1.10.0"
+  },
+  "scripts": {
+    "dev": "nodemon src/shared/http/server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
