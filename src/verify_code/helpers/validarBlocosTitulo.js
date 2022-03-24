@@ -3,7 +3,7 @@ import { modulo11Titulo } from "./modulo11T.js";
 const tituloBancario = (codigo)=> {
 
     function addDays(date, days) {
-        var result = new Date(date);
+        let result = new Date(date);
         result.setDate(result.getDate() + Number(days));
         
         let ano = result.getFullYear();
