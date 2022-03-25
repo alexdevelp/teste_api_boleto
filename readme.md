@@ -1,7 +1,7 @@
 # Teste API
 
 ## Sobre o Projeto
-- Este é um projeto que visa validar e retornar as informações do boleto, através das linhas digitéveis do mesmo.
+- Este é um projeto que visa validar e retornar as informações do boleto, através das linhas digitáveis do mesmo.
 
 ## Rodar Projeto
 - Primeiro passo é preciso instalar as dependências do projeto:
